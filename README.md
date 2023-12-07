@@ -1,2 +1,1 @@
-Leia-me ou não
-apaguei depois com o alura2
+apaguei tudo primeiro
