@@ -1,3 +1,1 @@
-apaguei tudo depois dele
-
-
+apaguei tudo primeiro
